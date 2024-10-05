@@ -1,0 +1,14 @@
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\bin\Debug\net8.0\exemploexplorando.exe
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\bin\Debug\net8.0\exemploexplorando.deps.json
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\bin\Debug\net8.0\exemploexplorando.runtimeconfig.json
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\bin\Debug\net8.0\exemploexplorando.dll
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\bin\Debug\net8.0\exemploexplorando.pdb
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\obj\Debug\net8.0\exemploexplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\obj\Debug\net8.0\exemploexplorando.AssemblyInfoInputs.cache
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\obj\Debug\net8.0\exemploexplorando.AssemblyInfo.cs
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\obj\Debug\net8.0\exemploexplorando.csproj.CoreCompileInputs.cache
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\obj\Debug\net8.0\exemploexplorando.dll
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\obj\Debug\net8.0\refint\exemploexplorando.dll
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\obj\Debug\net8.0\exemploexplorando.pdb
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\obj\Debug\net8.0\exemploexplorando.genruntimeconfig.cache
+C:\Users\evell\OneDrive\Área de Trabalho\DIO\Exemplofundamentos\exemploexplorando\obj\Debug\net8.0\ref\exemploexplorando.dll
