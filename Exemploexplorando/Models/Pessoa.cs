@@ -20,6 +20,7 @@ namespace EXEMPLOEXPLORANDO.Models
         }
         
         //criando desconstrutor
+        //out significa parametro de saída
         public void Deconstruct(out string nome, out string sobrenome)
         {
             nome = Nome;
@@ -28,6 +29,7 @@ namespace EXEMPLOEXPLORANDO.Models
 
         private string _nome;
         private int _idade;
+        
         public string Nome
         {
             get => _nome.ToUpper();
