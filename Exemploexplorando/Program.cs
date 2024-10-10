@@ -3,28 +3,27 @@ using EXEMPLOEXPLORANDO.Models;
 //using System.Data;
 using System.Globalization; //Alterando a localização do sistema
 
+//int numero = 20;
+//bool ehPar = false;
 
+//Ultilizando o IF Ternário 
+//ehPar = numero % 2 == 0;
+//Console.writeLine($"O numero {numero} é" + (ehPar ? "par" : "ímpar"));
 
+//if (numero % 2 == 0)
+//{
+    //Console.writeLine($"O número {numero} é par");
+//}
+//else
+//{
+   // Console.WriteLine($"O número {numero} é ímpar");
+//}
 
+//Pessoa p1 = new Pessoa("Maria", "Silva");
 
+//(string nome, string sobrenome) = p1;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//Console.WriteLine($"{nome} {sobrenome}");
 
 //testando o método
 //LeituraArquivo arquivo = new LeituraArquivo();
