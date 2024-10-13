@@ -1,7 +1,18 @@
 using Exemploexplorando.Models;
-using EXEMPLOEXPLORANDO.Models;
-//using System.Data;
 using System.Globalization; //Alterando a localização do sistema
+using Models;
+using System.Text.Json.Nodes;
+using Newtonsoft.Json;
+
+
+Venda v1 = new Venda(1, "material de escritorio", 25.00M);
+
+string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
+
+File.WriteAllText("Arquivos/vendas.json", serializado);
+
+Console.WriteLine(serializado);
+
 
 //int numero = 20;
 //bool ehPar = false;
