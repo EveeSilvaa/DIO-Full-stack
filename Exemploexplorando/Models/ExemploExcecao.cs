@@ -3,23 +3,32 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EXEMPLOEXPLORANDO.Models
+namespace ExemploExplorando.Models
 {
     public class ExemploExcecao
     {
-        public void Method1()
+        public void Metodo1()
         {
-            Method2();
+            try
+            {
+                Metodo2();
+            }catch(Exception ex)
+            {
+                Console.WriteLine("Exceção tratada." + ex.StackTrace);
+            }            
         }
-        public void Method2()
+
+        public void Metodo2()
         {
-            Method3();
+            Metodo3();
         }
-        public void Method3()
+
+        public void Metodo3()
         {
-            Method4();
+            Metodo4();
         }
-        public void Method4()
+
+        public void Metodo4()
         {
             throw new Exception("Ocorreu uma exceção");
         }
