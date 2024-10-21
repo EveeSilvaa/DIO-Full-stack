@@ -5,16 +5,20 @@ using System.Threading.Tasks;
 
 namespace ExemploPOO.Models
 {
+    //Abstract informa que classe só pode ser herdada 
+    //não pode ser instanciada
     public abstract class Conta
     {
-      protected decimal saldo;
+        //Protected informa atributo é protegido 
+        //mas que pode ser alterado pelas classes filhas
+        protected decimal Saldo;
 
-      public abstract void Creditar(decimal valor);
+        public abstract void Creditar(decimal valor);
 
-      public void ExibirSaldo()
-      {
-        Console.WriteLine("O seu saldo é: " + saldo); 
-      }
+        public void ExibirSaldo()
+        {
+            Console.WriteLine("O seu saldo é: " + Saldo);
+        }
     }
 }
 // o metdod protected, ele significa que está protegido contra alterações externas com exceção das suas classes
