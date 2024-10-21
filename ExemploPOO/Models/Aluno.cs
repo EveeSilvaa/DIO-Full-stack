@@ -7,6 +7,12 @@ namespace ExemploPOO.Models
 {
     public class Aluno : Pessoa // herança ele puxa os atributos de outra class exemplo aluno esta puxando a herança/ class de pessoa
     {
+        public Aluno(string nome) : base(nome)
+        {
+            
+        }
+         
+
        public double Nota { get; set; }
 
         public override void Apresentar()
