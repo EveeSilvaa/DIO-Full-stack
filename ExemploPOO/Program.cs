@@ -1,16 +1,24 @@
 using ExemploPOO.Models;
 
 
-Conta c = new Conta();
+//Instanciar classe que implementa uma interface
+//  Icalculadora calculadora = new Calculadora();
+//  Console.WriteLine(calculadora.Somar(2, 2));
+
+//Instaciar classe que herda do object
+// Computador c = new Computador();
+// Console.WriteLine(c.ToString());
 
 
 
+// Pessoa p1 = new Pessoa("maria");
+// Aluno a1 = new Aluno("maria");
+// a1.Apresentar();
 
 
-
-
-
-
+// Corrente c = new Corrente();
+// c.Creditar(500);
+// c.ExibirSaldo();
 
 
 
